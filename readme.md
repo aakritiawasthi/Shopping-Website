@@ -1,2 +1,1 @@
-react a library 
-angular is framework
+Created clone of shopping website "Reno & Pelle" using html and css.
